@@ -24,5 +24,5 @@ Perfect for quickly finding photos of a person or a mood.
 ##  How to Install
 1. Download this project:
    ```bash
-   git clone https://github.com/yourusername/AI-Photo-Organizer.git
+   git clone https://github.com/Roshan12345689/AI-Photo-Organizer.git
    cd AI-Photo-Organizer
